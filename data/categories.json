@@ -1,0 +1,26 @@
+[
+  {
+    "id": "singers",
+    "name": "Singers",
+    "description": "Professional vocalists for all occasions",
+    "icon": "🎤"
+  },
+  {
+    "id": "djs",
+    "name": "DJs",
+    "description": "Music mixers and party entertainers",
+    "icon": "🎧"
+  },
+  {
+    "id": "dancers",
+    "name": "Dancers",
+    "description": "Professional dancers and choreographers",
+    "icon": "💃"
+  },
+  {
+    "id": "speakers",
+    "name": "Speakers",
+    "description": "Motivational and keynote speakers",
+    "icon": "🎙️"
+  }
+]

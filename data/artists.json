@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "category": "singers",
+    "bio": "Professional jazz and pop vocalist with 10+ years of experience performing at weddings, corporate events, and private parties.",
+    "priceRange": "$500-1000",
+    "location": "New York, NY",
+    "languages": ["English", "Spanish"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.9,
+    "reviewCount": 127
+  },
+  {
+    "id": 2,
+    "name": "DJ Mike Rodriguez",
+    "category": "djs",
+    "bio": "High-energy DJ specializing in weddings, corporate events, and nightclub performances. Expert in multiple genres including EDM, Hip-Hop, and Latin music.",
+    "priceRange": "$800-1500",
+    "location": "Los Angeles, CA",
+    "languages": ["English", "Spanish"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.8,
+    "reviewCount": 89
+  },
+  {
+    "id": 3,
+    "name": "Elena Petrov",
+    "category": "dancers",
+    "bio": "Professional ballet and contemporary dancer with performances at Lincoln Center and international venues.",
+    "priceRange": "$300-800",
+    "location": "Chicago, IL",
+    "languages": ["English", "Russian", "French"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.9,
+    "reviewCount": 156
+  },
+  {
+    "id": 4,
+    "name": "Dr. James Wilson",
+    "category": "speakers",
+    "bio": "Motivational speaker and business consultant with expertise in leadership development and team building.",
+    "priceRange": "$2000-5000",
+    "location": "Austin, TX",
+    "languages": ["English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.7,
+    "reviewCount": 203
+  },
+  {
+    "id": 5,
+    "name": "Maria Santos",
+    "category": "singers",
+    "bio": "Latin music specialist performing traditional and contemporary songs for cultural events and celebrations.",
+    "priceRange": "$400-900",
+    "location": "Miami, FL",
+    "languages": ["Spanish", "English", "Portuguese"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.8,
+    "reviewCount": 94
+  },
+  {
+    "id": 6,
+    "name": "DJ Alex Chen",
+    "category": "djs",
+    "bio": "Electronic music producer and DJ with a focus on house, techno, and ambient soundscapes for upscale events.",
+    "priceRange": "$1000-2000",
+    "location": "San Francisco, CA",
+    "languages": ["English", "Mandarin"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.9,
+    "reviewCount": 67
+  },
+  {
+    "id": 7,
+    "name": "The Phoenix Dance Crew",
+    "category": "dancers",
+    "bio": "Award-winning hip-hop and street dance crew available for competitions, showcases, and entertainment events.",
+    "priceRange": "$1200-2500",
+    "location": "Atlanta, GA",
+    "languages": ["English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.8,
+    "reviewCount": 112
+  },
+  {
+    "id": 8,
+    "name": "Lisa Thompson",
+    "category": "speakers",
+    "bio": "Tech industry executive and keynote speaker focusing on innovation, digital transformation, and women in technology.",
+    "priceRange": "$3000-7000",
+    "location": "Seattle, WA",
+    "languages": ["English"],
+    "image": "/placeholder.svg?height=300&width=300",
+    "rating": 4.9,
+    "reviewCount": 178
+  }
+]
